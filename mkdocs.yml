@@ -1,0 +1,29 @@
+site_name: Os Críticos de ITO
+# site_url: http://criticos-ito.com
+theme:
+  name: material
+  favicon: assets/logo_unb.ico
+  logo: assets/logo_unb.png
+  palette:
+    - scheme: default
+      primary: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Início: index.md
+  - Apresentação: apresentacao.md
+  - Referencial Bibliográfico: referencias_bibliograficas.md
+  - Extras: extras.md
