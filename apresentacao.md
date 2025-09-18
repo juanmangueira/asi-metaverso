@@ -1,7 +1,7 @@
-# **Apresentação de Seminário**
+# **Apresentação Metaverso**
 
 ## **Introdução**
-Este trabalho referencia-se ao seminário de abordagem crítica em teoria organizacional, do grupo 3. O material produzido em slides consta abaixo. 
+Este trabalho referencia-se ao grupo Metaverso. O material produzido em slides consta abaixo. 
 
 ## **Apresentação de slides**
 <center>
