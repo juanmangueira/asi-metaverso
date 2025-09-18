@@ -1,7 +1,7 @@
 # **Metaverso: Características e aplicações**
 
 ## **Introdução**
-Esse site foi criado para armazenar os materiais do **Grupo 8 - Metaverso: Características e aplicações** da disciplina de Administração de Sistemas da Informação, ministrada pelo professor Doutor CARLOS ANDRE DE MELO ALVES, da Universidade de Brasília, durante o 2º semestre de 2025. A disciplina se desdobra sobre os conceitos iniciais para administração de sistemas da informação, trazendo uma bagagem teórica para os discentes do curso de Administração da Universidade de Brasília.
+Esse site foi criado para armazenar os materiais do **Grupo 8 - Metaverso: Características e aplicações** da disciplina de Administração de Sistemas de Informação, ministrada pelo professor Doutor CARLOS ANDRE DE MELO ALVES, da Universidade de Brasília, durante o 2º semestre de 2025. A disciplina se desdobra sobre os conceitos iniciais para administração de sistemas de informação, trazendo uma bagagem teórica para os discentes do curso de Administração da Universidade de Brasília.
 
 ## **Equipe**
 Nossa equipe de trabalho é composta pelos discentes de Administração da Universidade de Brasília presentes na Tabela 1.
