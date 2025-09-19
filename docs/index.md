@@ -16,4 +16,4 @@ Nossa equipe de trabalho é composta pelos discentes de Administração da Unive
 
 <div style="text-align: center">
 <p> Tabela 1: Equipe de trabalho (Fonte: autor, 2025).</p>
-</div>https://www.linkedin.com/in/pedro-lucas-fraz%C3%A3o-de-carvalho-82823528a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+</div>
