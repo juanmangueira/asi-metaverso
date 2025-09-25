@@ -10,7 +10,7 @@ Nossa equipe de trabalho é composta pelos discentes de Administração da Unive
 | :---------: | :----------------------------------: | :----: |
 | ![Foto Amanda Guedes (Membro Time)](assets/perfil_amanda.jpg){ align=center, width="100" } | **Amanda Guedes** | [:fontawesome-brands-linkedin: amanda-guedes](https://www.linkedin.com/in/amanda-guedes-027430285/) |
 | ![Foto Amon-rha Silva (Membro Time)](assets/perfil_amon_rha.png){ align=center, width="100" } | **Amon-rha Silva Lima** | [:fontawesome-brands-linkedin: amon-rha](https://linkedin.com/in/amon-rha-silva-lima-341094385/) |
-| ![Foto Breno da Cruz (Membro Time)](assets/perfil_breno.jpg){ align=center, width="100" } | **Breno da Cruz dos Santos** | [:fontawesome-brands-linkedin: ](https://linkedin.com/in/breno-santos-a54332265/) |
+| ![Foto Breno da Cruz (Membro Time)](assets/perfil_breno.jpg){ align=center, width="100" } | **Breno da Cruz dos Santos** | [:fontawesome-brands-linkedin: breno-santos](https://linkedin.com/in/breno-santos-a54332265/) |
 | ![Foto Juan Mangueira(Membro Time)](assets/perfil_juan.png){ align=center, width="100" } | **Juan Mangueira** | [:fontawesome-brands-linkedin: juanmangueira](https://linkedin.com/in/juanmangueira/) |
 | ![Foto Pedro Lucas Frazão (Membro Time)](assets/perfil_pedro.jpg){ align=center, width="100" } | **Pedro Lucas Frazão** | [:fontawesome-brands-linkedin: pedro-lucas-frazao](https://linkedin.com/in/pedro-lucas-fraz%C3%A3o-de-carvalho-82823528a/) |
 
