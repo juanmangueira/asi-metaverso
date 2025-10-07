@@ -24,6 +24,7 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - Apresentação: apresentacao.md
+  - Roteiro: roteiro.md
   - Referencial Bibliográfico: referencias_bibliograficas.md
-  - Extras: extras.md
+  # - Apresentação: apresentacao.md
+  # - Extras: extras.md
